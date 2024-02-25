@@ -11073,7 +11073,7 @@ header.masthead .masthead-heading {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
-.timeline > li .timeline-image {
+x.timeline > li .timeline-image {
   position: absolute;
   z-index: 100;
   left: 0;
