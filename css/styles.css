@@ -11289,6 +11289,18 @@ header.masthead2 .masthead-heading {
     padding: 0 100px 20px 20px;
   }
 }
+.showcase .showcase-text {
+  padding: 3rem;
+}
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
+}
 .team-member {
   margin-bottom: 3rem;
   text-align: center;
