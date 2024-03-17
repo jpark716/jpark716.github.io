@@ -11287,8 +11287,6 @@ header.masthead2 .masthead-heading {
 .showcase .showcase-img {
   max-width: 100%;
   max-height: 100%;
-  margin: auto;
-  display: block;
 }
 @media (min-width: 768px) {
   .showcase .showcase-text {
