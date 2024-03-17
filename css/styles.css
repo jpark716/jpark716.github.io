@@ -11285,8 +11285,10 @@ header.masthead2 .masthead-heading {
   padding: 3rem;
 }
 .showcase .showcase-img {
-  min-height: 30rem;
-  background-size: cover;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  display: block;
 }
 @media (min-width: 768px) {
   .showcase .showcase-text {
